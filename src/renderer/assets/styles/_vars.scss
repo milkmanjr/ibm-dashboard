@@ -1,0 +1,73 @@
+// Theme
+$theme--global--border-color: rgba(255, 255, 255, 0.05);
+
+$theme--home--background-color: #343434;
+$theme--home--main-color: #FFFFFF;
+$theme--home--sub-color: #CCCCCC;
+$theme--home--cell-color: #1c2023;
+
+$theme--ibm-cloud--background-color: #313131;
+$theme--ibm-cloud--main-color: #A6F9E7;
+$theme--ibm-cloud--sub-color: #09B4A0;
+$theme--ibm-cloud--border-color: #272727;
+
+$theme--cyber-security--background-color: #3c3c3c;
+$theme--cyber-security--main-color: #fe70ce;
+$theme--cyber-security--sub-color: #FE70CE;
+$theme--cyber-security--border-color: #341b42;
+$theme--cyber-security--level_0: #a0a0a0;
+$theme--cyber-security--level_1: #d7adf9;
+$theme--cyber-security--level_2: #fd70ce;
+$theme--cyber-security--level_3: #a4295f;
+
+$theme--watson-captioning--background-color: #2B0820;
+$theme--watson-captioning--main-color: #D7ACF9;
+$theme--watson-captioning--sub-color: #AF6EE0;
+$theme--watson-captioning--border-color: #272727;
+
+$theme--cognitive-highlights--background-color: #313131;
+$theme--cognitive-highlights--main-color: #B3DF69;
+$theme--cognitive-highlights--sub-color: #B3DF69;
+$theme--cognitive-highlights--border-color: #01352e;
+
+$theme--slam-tracker--background-color: #252525;
+$theme--slam-tracker--main-color: #5BABF3;
+$theme--slam-tracker--sub-color: #5BABF3;
+
+$theme--cognitive-concierge--background-color: #343434;
+$theme--cognitive-concierge--main-color: #5596E0;
+$theme--cognitive-concierge--sub-color: #5596E0;
+
+// Fonts
+$font--mono--bold               : 'IBM Plex Mono Bold';
+$font--mono--bold-italic        : 'IBM Plex Mono Bold Italic';
+$font--mono--extra-light        : 'IBM Plex Mono Extra Light';
+$font--mono--extra-light-italic : 'IBM Plex Mono Extra Light Italic';
+$font--mono--italic             : 'IBM Plex Mono Italic';
+$font--mono--light              : 'IBM Plex Mono Light';
+$font--mono--light-italic       : 'IBM Plex Mono Light Italic';
+$font--mono--medium             : 'IBM Plex Mono Medium';
+$font--mono--medium-italic      : 'IBM Plex Mono Medium Italic';
+$font--mono--regular            : 'IBM Plex Mono Regular';
+$font--mono--semi-bold          : 'IBM Plex Mono Semi Bold';
+$font--mono--semi-bold-italic   : 'IBM Plex Mono Semi Bold Italic';
+$font--mono--text               : 'IBM Plex Mono Text';
+$font--mono--text-italic        : 'IBM Plex Mono Text Italic';
+$font--mono--thin               : 'IBM Plex Mono Thin';
+$font--mono--thin-italic        : 'IBM Plex Mono Thin Italic';
+$font--sans--bold               : 'IBM Plex Sans Bold';
+$font--sans--bold-italic        : 'IBM Plex Sans Bold Italic';
+$font--sans--extra-light        : 'IBM Plex Sans Extra Light';
+$font--sans--extra-light-italic : 'IBM Plex Sans Extra Light Italic';
+$font--sans--italic             : 'IBM Plex Sans Italic';
+$font--sans--light              : 'IBM Plex Sans Light';
+$font--sans--light-italic       : 'IBM Plex Sans Light Italic';
+$font--sans--medium             : 'IBM Plex Sans Medium';
+$font--sans--medium-italic      : 'IBM Plex Sans Medium Italic';
+$font--sans--regular            : 'IBM Plex Sans Regular';
+$font--sans--semi-bold          : 'IBM Plex Sans Semi Bold';
+$font--sans--semi-bold-italic   : 'IBM Plex Sans Semi Bold Italic';
+$font--sans--text               : 'IBM Plex Sans Text';
+$font--sans--text-italic        : 'IBM Plex Sans Text Italic';
+$font--sans--thin               : 'IBM Plex Sans Thin';
+$font--sans--thin-italic        : 'IBM Plex Sans Thin Italic';

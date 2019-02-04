@@ -1,0 +1,56 @@
+1. Metrics for Cloud: http://www.usopen.org/demos/cloud/metrics.json
+2. Traffic for Cloud: http://www.usopen.org/demos/cloud/cmusta_trafficSources.json
+3. Datacenter load balance http://www.usopen.org/demos/cloud/cmusta_traffic.json
+4. Security: http://www.usopen.org/demos/securitydashboard/security_visual.json
+
+
+
+
+
+
+
+Cloud:
+
+Cloud Web Metrics: http://www.wimbledon.com/demos/cloud/metrics.json
+Cloud traffic distribution per plex: http://www.wimbledon.com/demos/cloud/cmwimb_traffic.json
+Top hitting countries: http://www.wimbledon.com/demos/cloud/cmwimb_trafficSources.json
+ 
+Security:
+
+All data is here: http://www.wimbledon.com/demos/securitydashboard/security_visual.json
+ 
+Speech To Text:
+
+List of video assets: http://www.usopen.org/demos/events-demos/data/video_demo_feed.json
+Sample VTT: http://ustaprogdl.edgesuite.net/2016/20160910/USTP0000000000704503_0001__en.vtt
+ 
+Cognitive Highlights:
+Here are the feeds for the cognitive highlights 
+Get everything:
+ https://usopencoghl.mybluemix.net/gethighlights
+ 
+Search by player (First, last and partial names will work. Needs testing)
+ https://usopencoghl.mybluemix.net/gethighlights?player=Djokovic
+ 
+Search by day (Day numbers run 7 through 20. 7 is Monday 28 August)
+ https://usopencoghl.mybluemix.net/gethighlights?day=14
+ 
+Search by round (R1, R2, R3, R4, QF, SF, F)
+ https://usopencoghl.mybluemix.net/gethighlights?round=QF
+ 
+Search by event (WS for Women's Singles or MS for Men's Singles. Other events not covered)
+ https://usopencoghl.mybluemix.net/gethighlights?round=WS
+ 
+Search by court (Arthur Ashe Stadium, Louis Armstrong Stadium, Grandstand, Court 5, Court 10, Court 13 and Court 17)
+ https://usopencoghl.mybluemix.net/gethighlights?court=Arthur+Ashe+Stadium
+ 
+Params can be combined:
+ https://usopencoghl.mybluemix.net/gethighlights?day=14&round=QF
+ 
+Sort by excitement:
+https://usopencoghl.mybluemix.net/gethighlights?sort=excitement
+
+Weather
+
+Social
+

@@ -1,0 +1,18 @@
+major todos
+- quotes fadeaway (on enter to each section, a quote modal will show up for X seconds, and then fade out) (see word doc in email "Content for SMT")
+- Cognitive Highlights - donuts for the other stats
+- IBM Cloud - points of interests in map
+- Cyber Security - animated "attacks" from country X to country Y (see http://www.wimbledon.com/demos/securitydashboard/index.html) (numbers come from the feed, but the attacks don't have to be in sync with it (just make it look active))
+- for all sections, there's a plus sign in the menu you can click (if you are in that section) which toggles a modal containing a video flowchart (overlays on top of the middle/main section)
+- home (according to Jeremy, this will just be a static page with an image)
+- set timeout for the sections that need auto-refreshing (for "live" data)
+
+notes
+- if Top Sources in Cloud and CyberSecurity is not showing, it's most likely the feed, it goes down a lot
+- Slam Tracker needs to be tested in 4k monitor + touch
+- there seems to be a bug (or just a setting I haven't configured) with the root/static folder where it doesn't get included in the ASAR file on packaging, may need to move them into src/renderer/static instead
+
+code debts
+- probably should've opted for scoped styles
+- css classes, custom component tags: camelCase or kebab-case?? switching between two right now
+- use mounted() instead of created() in each component to initialize them

@@ -1,0 +1,6 @@
+{ "data" : [
+{"time":"201708141850","site":"s2","percentage":"27"},
+{"time":"201708141850","site":"s3","percentage":"24"},
+{"time":"201708141850","site":"s4","percentage":"42"},
+{"time":"201708141850","site":"s6","percentage":"7"}
+] }

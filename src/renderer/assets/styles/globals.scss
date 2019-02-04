@@ -1,0 +1,7 @@
+@import 'vars';
+@import 'mixins';
+
+// notes:
+// this globals file gets loaded on EVERY .vue component
+// import mixins, vars and functions only to prevent multiple definitions in compiled CSS file
+// fonts should be loaded in App.vue to prevent rendering bug where multiple font-family definitions of custom fonts will not trigger a browser repaint on hot-reload

@@ -1,0 +1,18 @@
+/*
+* Generates theme classes that can be applied to DOM elements to make them use the current theme's colors.
+*/
+@mixin generate-theme($background-color, $main-color, $sub-color) {
+
+  // used in the #app element
+  color: white;
+  background-color: $background-color;
+
+  // todo: DRY this
+  .theme--main-color--as-color { color: $main-color; }
+  .theme--sub-color--as-color { color: $sub-color; }
+  .theme--main-color--as-background-color { background-color: $main-color; }
+  .theme--sub-color--as-background-color { background-color: $sub-color; }
+  .theme--main-color--as-border-color { border-color: $main-color; }
+  .theme--sub-color--as-border-color { border-color: $sub-color; }
+  .theme--background-color--as-background-color { background-color: $background-color; }
+}

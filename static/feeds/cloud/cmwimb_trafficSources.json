@@ -1,0 +1,72 @@
+[
+{
+"rank": 1.0, 
+"country": "USA", 
+"visitors": 22850.0, 
+"OK hits": 882474.0, 
+"OK volume": 12451.854499999999
+}, 
+{
+"rank": 2.0, 
+"country": "GBR", 
+"visitors": 22281.0, 
+"OK hits": 904829.0, 
+"OK volume": 12909.690699999999
+}, 
+{
+"rank": 3.0, 
+"country": "ITA", 
+"visitors": 9284.0, 
+"OK hits": 99128.0, 
+"OK volume": 1187.8851
+}, 
+{
+"rank": 4.0, 
+"country": "AUS", 
+"visitors": 7629.0, 
+"OK hits": 264622.0, 
+"OK volume": 2855.2797999999998
+}, 
+{
+"rank": 5.0, 
+"country": "DEU", 
+"visitors": 5412.0, 
+"OK hits": 119331.0, 
+"OK volume": 1432.9073000000001
+}, 
+{
+"rank": 6.0, 
+"country": "FRA", 
+"visitors": 4460.0, 
+"OK hits": 100746.0, 
+"OK volume": 1254.4942000000001
+}, 
+{
+"rank": 7.0, 
+"country": "CAN", 
+"visitors": 3519.0, 
+"OK hits": 147109.0, 
+"OK volume": 3262.7076999999999
+}, 
+{
+"rank": 8.0, 
+"country": "JPN", 
+"visitors": 3219.0, 
+"OK hits": 104058.0, 
+"OK volume": 1525.7244000000001
+}, 
+{
+"rank": 9.0, 
+"country": "IND", 
+"visitors": 2714.0, 
+"OK hits": 113052.0, 
+"OK volume": 2091.2363
+}, 
+{
+"rank": 10.0, 
+"country": "CHN", 
+"visitors": 2698.0, 
+"OK hits": 64278.0, 
+"OK volume": 611.02840000000003
+}
+]
